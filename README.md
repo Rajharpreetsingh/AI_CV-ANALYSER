@@ -1,5 +1,5 @@
 AI CV Analyzer – Project Description
-
+link:http://intelcv.zya.me/?i=1
 AI CV Analyzer is an intelligent resume evaluation system that automatically analyzes a candidate’s CV and provides structured feedback based on skills, experience, and job relevance. It uses AI-driven text processing to extract key information such as education, technical skills, projects, and achievements, helping users understand how well their resume matches industry standards.
 
 The system generates a detailed analysis report including strengths, weaknesses, keyword optimization suggestions, and an overall scoring of the CV. It is designed to help students and professionals improve their resumes for internships, placements, and job applications by making them more ATS (Applicant Tracking System) friendly and impactful.
